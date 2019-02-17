@@ -1,0 +1,127 @@
+body{ 
+background-color:black;
+color:white;
+
+
+}
+
+
+.myInline{
+
+  display:inline;
+
+
+}
+
+
+.myScrollable{
+	
+	
+	height: 10em;
+	
+	overflow-y: scroll;
+	
+	
+}
+
+/*
+input[type=text],input[type=password]{
+    background-color:navy !important;
+    color: white !important;
+}
+*/
+
+
+
+
+
+
+/*
+
+body{ 
+background-color:black;
+color:white;
+font-family: 'Times New Roman', Times, serif;
+font-size: large;
+overflow-y: scroll; overflow-x:hidden;
+}
+
+
+a{color: #B00404!important; font-weight: bolder!important; font-style: italic!important;}
+
+#continue{
+
+  color: #0066cc!important; font-weight: bolder!important; font-style: italic!important;
+
+}
+
+h1,h2,h3,h4,h5,h6{color:#B00404;
+ font-weight: bolder;
+  font-style: italic;
+  }
+
+/* 0066cc */
+/*
+this works
+
+ .navbar .navbar-toggler .icon-bar {
+  background: #0066cc !important;
+} */
+
+
+
+/* .navbar .navbar-toggler .icon-bar {
+  background: #0066cc !important;
+} */
+/*
+c{
+  color:#B00404;
+  font-weight: bolder;
+  font-style: italic;
+
+}
+
+
+
+#age,#asnot,#corner,#continuum,#down,#elder,#frag,#frune,#finnah,#futury,#gemeni,#junior,#level,#leveller,#levelry,#locality,#maxims,#narcissist,#paradox,#sentientforce,#span,#spanner,#up,#whattime,#yet,#misc{ 
+  color:#0066cc;
+  font-weight:bold;
+  font-style:italic;
+  }
+
+
+.ui-tooltip {
+  color:white;
+  background-color:black; 
+  max-width: 80%;
+  box-shadow:white;
+}
+
+input[type="text"], textarea {
+
+  background-color : black; 
+
+}
+
+
+select{
+
+  background-color: black;
+}
+
+.myCustomButton {
+    background-color: #0066cc;
+    border: none;
+    color: black;
+    padding: 0.9375em 2em;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 0.25em 0.125em;
+    cursor: pointer;
+    font-size: 0.75em;
+}
+
+tr:nth-child(odd) {background-color: #181818;}
+
+*/
